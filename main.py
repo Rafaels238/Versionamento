@@ -1,3 +1,1 @@
-print("Versão Inícial")
-
-# Entendendo versionamento no Git
+print("Versão Inícial") #Alteração de comentário
